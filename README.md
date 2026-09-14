@@ -20,6 +20,8 @@ a pair of kind clusters. Alternatively, you can take a self guided tour. Use:
   clusters (must run `./scripts/up.sh` first).
 - `./scripts/down.sh` to tear down your clusters.
 
+For a walkthrough of a specific use case, see the [tutorials](docs/tutorials).
+
 ## Community, discussion, contribution, and support
 
 Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
